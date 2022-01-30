@@ -184,8 +184,8 @@ body {
     -o-border-radius: 10px;
 }
 .mob-content .four {
-    width: fit-content;
-    margin-left: 139px;
+    width: fit-content !important;
+    margin-left: 138px;
 }
 .mob-content .gradiant {
     background: linear-gradient(90deg, var(--Light-Magenta), var(--Light-Violet));
